@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **toshi2135/toshi2135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on building cloud agnostic big data platform on AWS, using Spark, Airflow, AWS S3, Athena/Trino, Docker, K8s & Terraform.
+🛠️ Currently working on building cloud agnostic big data platform on AWS, using Spark, Airflow, AWS S3, Athena/Trino, Docker, K8s & Terraform.

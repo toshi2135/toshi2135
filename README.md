@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Currently working on building cloud agnostic big data platform, using Spark, Airflow, S3, Athena/Trino, Docker, K8s & Terraform.
-- Language: Python/PySpark, Scala (Data), .NET, Node.js (Web)
+- Language: Python/PySpark, Scala (Data), ASP.NET Core, Node.js (Web)

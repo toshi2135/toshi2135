@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Language: Python/PySpark, Scala (Data), ASP.NET Core, Node.js (Web)
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter&show_icons=true&layout=compact&theme=dark"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyternotebook&show_icons=true&layout=compact&theme=dark"/> 

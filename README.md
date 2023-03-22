@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on building cloud agnostic big data platform, using [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/), [Apache Airflow](https://airflow.apache.org/), [Amazon Athena](https://aws.amazon.com/athena/)/[Trino](https://trino.io/), [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/), [Terraform](https://www.terraform.io/) and more.
+- Currently working on building cloud agnostic big data platform, using [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/)/[Amazon EMR](https://aws.amazon.com/emr/), [Apache Airflow](https://airflow.apache.org/), [Amazon Athena](https://aws.amazon.com/athena/)/[Trino](https://trino.io/), [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/), [Terraform](https://www.terraform.io/) and more.
 - Language: Python/PySpark, Scala (Data), ASP.NET Core, Node.js (Web)
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&theme=dark"/>

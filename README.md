@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&layout=compact&theme=dark"/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&hide=jupyter&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toshi2135)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=toshi2135&theme=algolia&show_icons=true)

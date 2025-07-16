@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&layout=compact&theme=dracula"/> 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toshi2135)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toshi2135"/>

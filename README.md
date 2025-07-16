@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 - Currently working on building cloud agnostic big data platform, using [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/)/[Amazon EMR](https://aws.amazon.com/emr/), [Apache Airflow](https://airflow.apache.org/), [Amazon Athena](https://aws.amazon.com/athena/)/[Trino](https://trino.io/), [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/), [Terraform](https://www.terraform.io/) and more.
 - Language/Framework: Python/PySpark, Scala/Spark (Data), ASP.NET Core, Node.js (Web)
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myusername&theme=dark"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&layout=compact&theme=dark"/> 
- -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&layout=compact&theme=dark"/> 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myusername)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api?username=myusername&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=toshi2135)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api?username=toshi2135&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	

@@ -23,3 +23,6 @@ Here are some ideas to get you started:
  -->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)	

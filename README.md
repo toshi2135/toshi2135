@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshi2135&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Toby's's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshi2135&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Toby's's GitHub stats](https://github-readme-stats.vercel.app/api?username=toshi2135&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Finished MSc Statistical Data Science @ University of Exeter, UK
-- Experienced working on building cloud data platforms & infrastructure, using [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/), [Apache Airflow](https://airflow.apache.org/), [Terraform](https://www.terraform.io/) [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/),  and more.
+- Experienced on building cloud data platforms & infrastructure, using [Azure](https://azure.microsoft.com/), [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/), [Apache Airflow](https://airflow.apache.org/), [Terraform](https://www.terraform.io/) [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/), and more.
 - Language/Framework: Python/PySpark, Scala/Spark (Data), ASP.NET Core, Node.js (Web)
 ---
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&count_private=true&include_all_commits=true&theme=dracula"/>

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Finished MSc Statistical Data Science @ University of Exeter, UK
+- MSc Statistical Data Science @ University of Exeter, UK
 - Experienced on building cloud data platforms & infrastructure, using [Azure](https://azure.microsoft.com/), [AWS](https://aws.amazon.com/), [Apache Spark](https://spark.apache.org/), [Apache Airflow](https://airflow.apache.org/), [Terraform](https://www.terraform.io/) [Docker](https://www.docker.com/), [K8s](https://kubernetes.io/), and more.
 - Language/Framework: Python/PySpark, Scala/Spark (Data), ASP.NET Core, Node.js (Web)
 ---

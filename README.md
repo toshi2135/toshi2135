@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=toshi2135&count_private=true&include_all_commits=true&theme=dracula"/> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=toshi2135)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=toshi2135)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshi2135&count_private=true&include_all_commits=true&hide=jupyter+notebook&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
